@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SATYAJEET323
+- 👋 Hi, I’m @SATYAJEET (QuantumCoder)
 - 👀 I’m interested in Web Development , python full stack developer , coding , development
 - 🌱 I’m currently learning B-tech in Computer Engineering 
 - 📫 How to reach me ... Email -- sattudesai007@gmail.com
