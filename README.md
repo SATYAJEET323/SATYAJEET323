@@ -46,8 +46,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SATYAJEET323&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAJEET323&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYAJEET323&show_icons=true&theme=radical" alt="GitHub Stats" style="width : 50%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAJEET323&layout=compact&theme=radical" alt="Top Languages" style="width : 50%;" />
 </div>
 
 ---
