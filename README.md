@@ -55,9 +55,9 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 ## 🎨 Gallery
 Take a look at some visuals from my projects:
 <div align="center">
-  <img src="https://github.com/SATYAJEET323/Assets/blob/1e5554b5d98609c8ccb7d46974697533d3d22e9a/Screenshot%202024-12-03%20213011.png" alt="DSA-Snippets" style="margin: 10px; width : 40%" />
-  <img src="https://github.com/SATYAJEET323/Assets/blob/1e5554b5d98609c8ccb7d46974697533d3d22e9a/Screenshot%202025-01-02%20212319.png" alt="Project Screenshot 2" style="margin: 10px; width : 40%"  />
-  <img src="https://github.com/SATYAJEET323/Assets/blob/1e5554b5d98609c8ccb7d46974697533d3d22e9a/Screenshot%202024-03-07%20104458.png" alt="GYM-Locator" style="margin: 10px; width : 40%"  />
+  <img src="https://github.com/SATYAJEET323/Assets/blob/1e5554b5d98609c8ccb7d46974697533d3d22e9a/Screenshot%202024-12-03%20213011.png" alt="DSA-Snippets" style="margin: 10px;" />
+  <img src="https://github.com/SATYAJEET323/Assets/blob/1e5554b5d98609c8ccb7d46974697533d3d22e9a/Screenshot%202025-01-02%20212319.png" alt="Project Screenshot 2" style="margin: 10px;"  />
+  <img src="https://github.com/SATYAJEET323/Assets/blob/1e5554b5d98609c8ccb7d46974697533d3d22e9a/Screenshot%202024-03-07%20104458.png" alt="GYM-Locator" style="margin: 10px;"  />
 </div>
 
 ---
