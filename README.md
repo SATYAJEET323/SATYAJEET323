@@ -72,7 +72,7 @@ Feel free to reach out through any of the following platforms:
 
 ### 🌟 Let's Collaborate
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-placeholder-collab.png" alt="Collaboration Banner" />
+  <img src="https://github.com/SATYAJEET323/Assets/blob/fbe24ae7ad7bc4fc65aefd69bdb6b2cb58bc3e88/logo512.png" alt="Collaboration Banner" style="width : 40%" />
 </div>
 
 I’m open to collaborating on exciting projects or brainstorming innovative ideas. Let’s connect and make something awesome together!
