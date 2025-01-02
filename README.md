@@ -1,7 +1,7 @@
 # Hi there! I'm SATYAJEET DESAI👋
 
 <div align="center">
-  <img src="https://github.com/SATYAJEET323/SATYAJEET323/commit/05e10f47a76f4f78f808b5b86329d66410e27729" alt="Welcome Banner" />
+  <img src="2.png" alt="Welcome Banner" />
 </div>
 
 Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Designer** also **Full Stack Developer**who thrives on creating stunning and functional web experiences. Currently, I'm diving deeper into Machine Learning and Bloackchain and Cryptocurrency while pursuing my studies at **Pillai College of Engineering**.
