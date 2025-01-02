@@ -46,8 +46,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SATYAJEET323&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SATYAJEET323&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -55,7 +55,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 ## 🎨 Gallery
 Take a look at some visuals from my projects:
 <div align="center">
-  <img src="https://via.placeholder.com/400x200" alt="Project Screenshot 1" style="margin: 10px;" />
+  <img src="![image](https://github.com/user-attachments/assets/601d84ae-fc9d-4581-ab2d-a47a9bdc3eb9)
+" alt="PortFolio" style="margin: 10px;" />
   <img src="https://via.placeholder.com/400x200" alt="Project Screenshot 2" style="margin: 10px;" />
 </div>
 
