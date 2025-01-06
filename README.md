@@ -19,7 +19,6 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 
 ## 🚀 Featured Projects
 ### 🖥️ Web Projects
-- **[Dynamic Portfolio Website](#)**: A responsive, visually stunning portfolio showcasing my work.
 - **[E-Commerce Platform](#)**: Built a feature-rich e-commerce platform with a focus on user experience.
 - **[Interactive Dashboard](#)**: Created an analytics dashboard with live data visualization.
 
@@ -29,6 +28,8 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 
 📂 Check out more projects in my repositories! Contributions and feedback are always appreciated. 🙌
 
+- **[Dynamic Portfolio Website](#)**: A responsive, visually stunning portfolio showcasing my work.
+- - https://satyajeet323.github.io/Satyajeet-Desai/
 ---
 
 ## 🛠️ Skills & Tools
