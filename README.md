@@ -9,7 +9,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 ---
 
 ## 🌟 About Me
-- 💻 **Tech Stack**: Proficient in **React JS**, **Node JS**, **Express JS**, **HTML**, **CSS**, **Python**, **PHP**, **MySQL**, **Java**, **VPS** and more.
+- 💻 **Tech Stack**: Proficient in **React JS**, **Node JS**, **MongoDB**, **Express JS**, **HTML**, **CSS**, **Python**, **PHP**, **MySQL**, **Java**, **VPS** and more.
 - 🎨 **Design Enthusiast**: Skilled with tools like **Visual Studio**, **Figma**, and **Web Flow**.
 - 🌱 **Learning Journey**: Exploring advanced full-stack development and mobile app design.
 - 🎯 **Goal-Oriented**: Committed to creating seamless user experiences and innovative solutions.
@@ -41,7 +41,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 - Adobe XD, Figma, Web Flow
 
 ### ⚙️ Other Tools
-- Git, WordPress, React Native
+- Git, Github, Vs Code,
 
 ---
 
