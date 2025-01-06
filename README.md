@@ -35,7 +35,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 ## 🛠️ Skills & Tools
 ### 💡 Languages & Frameworks
 - **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, PHP, MySQL
+- **Backend**: Node.js, PHP, MySQL , MongoDB
 
 ### 🎨 Design Tools
 - Adobe XD, Figma, Web Flow
