@@ -14,6 +14,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 - 🌱 **Learning Journey**: Exploring advanced full-stack development and mobile app design.
 - 🎯 **Goal-Oriented**: Committed to creating seamless user experiences and innovative solutions.
 - 🤝 **Team Player**: Experienced in project management and database optimization.
+- 🖥️ **Specialization**: Experienced in Mern Stack ,project management and database optimization.
 
 ---
 
@@ -35,13 +36,13 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 ## 🛠️ Skills & Tools
 ### 💡 Languages & Frameworks
 - **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: Node.js, PHP, MySQL , MongoDB
+- **Backend**: Node.js, PHP, MySQL , MongoDB ,Express Js
 
 ### 🎨 Design Tools
 - Adobe XD, Figma, Web Flow
 
 ### ⚙️ Other Tools
-- Git, Github, Vs Code,
+- Git, Github, Vs Code, Google Collab
 
 ---
 
