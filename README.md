@@ -21,7 +21,7 @@ Welcome to my GitHub profile! 🚀 I'm a passionate **Web Developer** , **Design
 ## 🚀 Featured Projects
 ### 🖥️ Web Projects
 - **[E-Commerce Platform](#)**: Built a feature-rich e-commerce platform with a focus on user experience.
-- **[Interactive Dashboard](#)**: Created an analytics dashboard with live data visualization.
+
 
 ### 📱 Mobile Projects
 - **[Mobile App Prototype](#)**: Designed and developed an interactive mobile app prototype.
